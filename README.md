@@ -47,6 +47,9 @@ For this project we will be analyzing some 911 call data from Kaggle. The data c
 ### Countplot is created for Call Reasons according to Month.
 ![Month](https://github.com/navi1910/911-Feature-Engineering-EDA-Project/blob/master/count_month.png 'month')
 
+## Contact
+https://www.linkedin.com/in/naveen-a-902a671b3/
+
 ## Data Source
 https://www.kaggle.com/datasets/mchirico/montcoalert
 
